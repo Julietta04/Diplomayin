@@ -10,4 +10,9 @@ git config --global user.name "Julietta04"
 
 git config --global user.email "julietta@instigatemobile.com"
 
+#download git files
+go to working directory in terminal
+write:
+git clone https://github.com/Julietta04/Diplomayin.git 
+
 
