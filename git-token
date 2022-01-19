@@ -1,0 +1,13 @@
+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 
+git commit -m "disayn"
+git token
+
+#git setup
+ go to working folder in terminal
+git init
+git config --global user.name "Julietta04"
+
+
+git config --global user.email "julietta@instigatemobile.com"
+
+
